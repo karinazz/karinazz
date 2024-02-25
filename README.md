@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a Data Science engineer and a Web Developer with a keen interest in creating web applications. I develop applications using Python and Django, as well as JavaScript and React. I enjoy challenges, so I am currently learning JAVA. I am currently studying and expanding my knowledge in the fields of Machine Learning and AI. Additionally, I am pursuing postgraduate studies in Fullstack Development.</p>
+<p align="center">I am a Data Science engineer and a Web Developer with a keen interest in creating web applications. I develop applications using Python and Django, as well as JavaScript and React. I am currently learning JAVA, studying and expanding my knowledge in the fields of Machine Learning and AI. Additionally, I am pursuing postgraduate studies in Fullstack Development.</p>
 
 ###
 
