@@ -17,6 +17,11 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=karinazz&label=Profile%20views&color=0e75b6&style=flat" alt="karinazz" /> </p>
 </div>
 
+<ul>
+  <li>Currently working on: web shop in Python + Django/REACT, Discord Anime Bot</li>
+  <li>Currently learning: REACT, JAVA</li>
+</ul>
+
 <h2></h2>
 
 ###
