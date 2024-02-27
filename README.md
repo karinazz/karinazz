@@ -18,7 +18,7 @@
 </div>
 
 <ul>
-  <li>Currently working on: web shop in Python + Django/REACT, language learing app, Discord Anime Bot</li>
+  <li>Currently working on: web shop in Python + Django/REACT, Language Learning app, Discord Anime Bot</li>
   <li>Currently learning: REACT, JAVA</li>
 </ul>
 
