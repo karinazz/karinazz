@@ -53,11 +53,13 @@
 ![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=black)&nbsp;
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinazz&theme=tokyonight)
+
+
 ---
 <div align="center">
   <p align="center">Stats</p>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karinazz&" alt="karinazz"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karinazz&show_icons=true&locale=en" alt="karinazz" /></p>
 
 
