@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a Data Science engineer and a Web Developer with a keen interest in creating web applications. I develop applications using Python and Django, as well as JavaScript and React. I am currently learning JAVA, studying and expanding my knowledge in the fields of Machine Learning and AI. Additionally, I am pursuing postgraduate studies in Fullstack Development.</p>
+<p align="center">I am a Data Science engineer and a Web Developer with a keen interest in creating web applications. </p>
 
 ###
 
@@ -19,44 +19,41 @@
 
 <ul>
   <li>Currently working on: web shop in Python + Django/REACT, Language Learning app, Discord Anime Bot</li>
-  <li>Currently learning: REACT, JAVA</li>
 </ul>
 
-<h2></h2>
+---
 
-###
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
-<p align="center">Languages and Tools</p>
+### 📚 Frameworks & Libraries
 
-###
+![Django](https://img.shields.io/badge/Django-39c488?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-<br><br>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karinazz&show_icons=true&locale=en&layout=compact" alt="karinazz" /></p>
-</div>
 
-<h2></h2>
 
+
+### 🛠️ Tools
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/wordpress-20232A?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+
+
+### 📝 Currently Learning
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=black)&nbsp;
+
+
+---
 <div align="center">
   <p align="center">Stats</p>
   
