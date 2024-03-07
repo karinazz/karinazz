@@ -30,6 +30,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![R](https://img.shields.io/badge/r-green?style=for-the-badge&logo=r&logoColor=grey)&nbsp;
+![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=black)&nbsp;
 
 
 ### 📚 Frameworks & Libraries
@@ -53,7 +54,6 @@
 ### 📝 Currently Learning
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=black)&nbsp;
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinazz&theme=tokyonight)
