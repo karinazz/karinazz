@@ -53,7 +53,7 @@
 
 ### 📝 Currently Learning
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinazz&theme=tokyonight)
