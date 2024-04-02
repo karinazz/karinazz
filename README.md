@@ -64,14 +64,15 @@
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinazz&theme=tokyonight)
-
-
 ---
 <div align="center">
   <p align="center">Stats</p>
+
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinazz&theme=tokyonight)
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karinazz&show_icons=true&locale=en" alt="karinazz" /></p>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karinazz&show_icons=true&locale=en" alt="karinazz" />
 
 
 
