@@ -20,10 +20,6 @@
 <ul>
   <li>
     Currently working on: <br>
-    - Web shop in Python + Django/REACT for a band, <br>
-    - Language Learning app, <br>
-    - Discord Anime/Series Bot, <br>
-    - The Charity Foundation Web Application, <br>
     - Personal Profile Website on Wordpress <br>
   </li>
   
