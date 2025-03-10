@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a Data Science engineer and a Web Developer with a keen interest in creating web applications. </p>
+<p align="center">Fullstack Developer with an MSc in Data Science & Machine Learning, passionate about building web applications. </p>
 
 ###
 
