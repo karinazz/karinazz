@@ -21,6 +21,7 @@
   <li>
     Currently working on: <br>
     - Personal Profile Website on Wordpress <br>
+    - Mobile App <br>
   </li>
   
 </ul>
@@ -30,11 +31,9 @@
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![R](https://img.shields.io/badge/r-green?style=for-the-badge&logo=r&logoColor=grey)&nbsp;
-![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=black)&nbsp;
 
 
 ### 📚 Frameworks & Libraries
@@ -49,9 +48,9 @@
 
 ### 🛠️ Tools
 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/wordpress-20232A?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=black)&nbsp;
 
 
 
