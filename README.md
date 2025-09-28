@@ -37,6 +37,11 @@ More project details, links to code and live previews will be available upon com
 - **Database**: PostgreSQL
 - <a href="https://vet-clinic-app.onrender.com/"> Check live website </a>
 
+### 🐾 Music Band Store
+- **Frontend**: Bootstrap, Pillow, CKEditor
+- **Backend**: Django, Python
+- <a href="https://karinazzz.pythonanywhere.com/"> Check live website </a>
+
 ### 🩺 Health Industry Web App
 - **Frontend**: React + TypeScript + Vite
 - **Backend**: Node.js + Express + Mongoose + Passport.js (JWT Auth), Nodemailer, Docker, CORS, dotenv
