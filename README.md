@@ -24,6 +24,8 @@
 - Personal Profile Website (WordPress) <a href="https://karinazawadzka.pl"> karinazawadzka.pl </a>
 - Mobile App (React Native + Expo)
 - Rebuilding a 2022 web app for a veterinary clinic
+- Rebuilding a 2024 web app for a music band
+- 
 
 More project details, links to code and live previews will be available upon completion.
 
