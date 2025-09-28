@@ -38,7 +38,7 @@ More project details, links to code and live previews will be available upon com
 - **Database**: PostgreSQL
 - <a href="https://vet-clinic-app.onrender.com/"> Check live website </a>
 
-### 🐾 Music Band Store
+### 🎵 Music Band Store
 - **Frontend**: Bootstrap, Pillow, CKEditor
 - **Backend**: Django, Python
 - <a href="https://karinazzz.pythonanywhere.com/"> Check live website </a>
