@@ -21,10 +21,9 @@
 
 ## 🚧 Currently Working On
 
-- Personal Profile Website (WordPress)
+- Personal Profile Website (WordPress) <a href="https://karinazawadzka.pl"> karinazawadzka.pl </a>
 - Mobile App (React Native + Expo)
-- Client E-commerce Platforms (WordPress/WooCommerce, GoDaddy)
-- Private web pages for **kaicode.dev** and **karinazawadzka.dev**
+- Rebuilding a 2022 web app for a veterinary clinic
 
 More project details, links to code and live previews will be available upon completion.
 
@@ -32,11 +31,18 @@ More project details, links to code and live previews will be available upon com
 
 ## 🧩 Projects
 
+### 🐾 Veterinary App
+- **Frontend**: Bootstrap, Pillow, CKEditor
+- **Backend**: Django, Python
+- **Database**: PostgreSQL
+- <a href="https://vet-clinic-app.onrender.com/"> Check live website </a>
+
 ### 🩺 Health Industry Web App
 - **Frontend**: React + TypeScript + Vite
 - **Backend**: Node.js + Express + Mongoose + Passport.js (JWT Auth), Nodemailer, Docker, CORS, dotenv
 - **DevOps**: Dockerized environment for consistent deployment and development
 - **Email**: Mailpit for testing; Nodemailer for transactional emails
+- <a href="https://hematobieg.org"> Check live website </a>
 
 ### 🧠 Mental Health Mobile App
 - **Stack**: React Native, JavaScript, Expo
