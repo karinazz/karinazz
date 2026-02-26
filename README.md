@@ -107,14 +107,3 @@ More project details, links to code and live previews will be available upon com
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinazz&layout=compact&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=karinazz&show_icons=true&theme=tokyonight&locale=en" />
-  
-</div>
